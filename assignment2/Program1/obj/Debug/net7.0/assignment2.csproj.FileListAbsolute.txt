@@ -1,0 +1,15 @@
+D:\Desktop\Software Construction Basics\assignment2\assignment2\bin\Debug\net7.0\assignment2.exe
+D:\Desktop\Software Construction Basics\assignment2\assignment2\bin\Debug\net7.0\assignment2.deps.json
+D:\Desktop\Software Construction Basics\assignment2\assignment2\bin\Debug\net7.0\assignment2.runtimeconfig.json
+D:\Desktop\Software Construction Basics\assignment2\assignment2\bin\Debug\net7.0\assignment2.dll
+D:\Desktop\Software Construction Basics\assignment2\assignment2\bin\Debug\net7.0\assignment2.pdb
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.csproj.AssemblyReference.cache
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfoInputs.cache
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.AssemblyInfo.cs
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.csproj.CoreCompileInputs.cache
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.dll
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\refint\assignment2.dll
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.pdb
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\assignment2.genruntimeconfig.cache
+D:\Desktop\Software Construction Basics\assignment2\assignment2\obj\Debug\net7.0\ref\assignment2.dll

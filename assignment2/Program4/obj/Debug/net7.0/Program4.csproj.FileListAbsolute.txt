@@ -1,0 +1,30 @@
+D:\Desktop\Software Construction Basics\assignment2\Program4\bin\Debug\net7.0\Program4.exe
+D:\Desktop\Software Construction Basics\assignment2\Program4\bin\Debug\net7.0\Program4.deps.json
+D:\Desktop\Software Construction Basics\assignment2\Program4\bin\Debug\net7.0\Program4.runtimeconfig.json
+D:\Desktop\Software Construction Basics\assignment2\Program4\bin\Debug\net7.0\Program4.dll
+D:\Desktop\Software Construction Basics\assignment2\Program4\bin\Debug\net7.0\Program4.pdb
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.csproj.AssemblyReference.cache
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.AssemblyInfoInputs.cache
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.AssemblyInfo.cs
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.csproj.CoreCompileInputs.cache
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.dll
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\refint\Program4.dll
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.pdb
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\Program4.genruntimeconfig.cache
+D:\Desktop\Software Construction Basics\assignment2\Program4\obj\Debug\net7.0\ref\Program4.dll
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\bin\Debug\net7.0\Program4.exe
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\bin\Debug\net7.0\Program4.deps.json
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\bin\Debug\net7.0\Program4.runtimeconfig.json
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\bin\Debug\net7.0\Program4.dll
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\bin\Debug\net7.0\Program4.pdb
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.csproj.AssemblyReference.cache
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.AssemblyInfoInputs.cache
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.AssemblyInfo.cs
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.csproj.CoreCompileInputs.cache
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.dll
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\refint\Program4.dll
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.pdb
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\Program4.genruntimeconfig.cache
+D:\Desktop\Software_Construction_Basics\assignment2\Program4\obj\Debug\net7.0\ref\Program4.dll
