@@ -1,0 +1,45 @@
+D:\Desktop\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.exe
+D:\Desktop\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.deps.json
+D:\Desktop\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.runtimeconfig.json
+D:\Desktop\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.dll
+D:\Desktop\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.AssemblyReference.cache
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfoInputs.cache
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfo.cs
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.CoreCompileInputs.cache
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.dll
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\refint\hw1_computer.dll
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.genruntimeconfig.cache
+D:\Desktop\hw1_computer\hw1_computer\obj\Debug\net7.0\ref\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.exe
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.deps.json
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.runtimeconfig.json
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\bin\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.AssemblyReference.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfoInputs.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfo.cs
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.CoreCompileInputs.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\refint\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\hw1_computer.genruntimeconfig.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_computer\hw1_computer\obj\Debug\net7.0\ref\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\bin\Debug\net7.0\hw1_computer.exe
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\bin\Debug\net7.0\hw1_computer.deps.json
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\bin\Debug\net7.0\hw1_computer.runtimeconfig.json
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\bin\Debug\net7.0\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\bin\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.AssemblyReference.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfoInputs.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.AssemblyInfo.cs
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.csproj.CoreCompileInputs.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\refint\hw1_computer.dll
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.pdb
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\hw1_computer.genruntimeconfig.cache
+D:\Desktop\Software Construction Basics\assignment1\hw1_calculator\hw1_computer\obj\Debug\net7.0\ref\hw1_computer.dll
