@@ -1,0 +1,15 @@
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\bin\Debug\net7.0\OrderManage.exe
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\bin\Debug\net7.0\OrderManage.deps.json
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\bin\Debug\net7.0\OrderManage.runtimeconfig.json
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\bin\Debug\net7.0\OrderManage.dll
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\bin\Debug\net7.0\OrderManage.pdb
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.csproj.AssemblyReference.cache
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.AssemblyInfoInputs.cache
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.AssemblyInfo.cs
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.csproj.CoreCompileInputs.cache
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.dll
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\refint\OrderManage.dll
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.pdb
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\OrderManage.genruntimeconfig.cache
+D:\Desktop\Software_Construction_Basics\assignment5\OrderManage\obj\Debug\net7.0\ref\OrderManage.dll
