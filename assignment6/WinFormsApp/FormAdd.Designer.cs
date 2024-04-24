@@ -242,7 +242,7 @@
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(600, 897);
+            ClientSize = new Size(592, 897);
             Controls.Add(修改订单);
             Controls.Add(textBox8);
             Controls.Add(textBox7);

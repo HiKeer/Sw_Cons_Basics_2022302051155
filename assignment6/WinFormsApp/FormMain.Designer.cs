@@ -162,7 +162,7 @@ namespace WinFormsApp
             订单细节DataGridView.Name = "订单细节DataGridView";
             订单细节DataGridView.RowHeadersWidth = 82;
             订单细节DataGridView.RowTemplate.Height = 40;
-            订单细节DataGridView.Size = new Size(600, 541);
+            订单细节DataGridView.Size = new Size(607, 541);
             订单细节DataGridView.TabIndex = 5;
             // 
             // IndexDataGridViewTextBoxColumn
@@ -250,7 +250,7 @@ namespace WinFormsApp
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1336, 805);
+            ClientSize = new Size(1344, 805);
             Controls.Add(修改订单);
             Controls.Add(创建订单);
             Controls.Add(删除订单);
