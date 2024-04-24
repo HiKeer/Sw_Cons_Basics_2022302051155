@@ -92,9 +92,9 @@ namespace WinFormsApp
             // 
             查询comboBox.FormattingEnabled = true;
             查询comboBox.Items.AddRange(new object[] { "所有订单", "订单号", "客户名", "货物名", "订单总价" });
-            查询comboBox.Location = new Point(262, 174);
+            查询comboBox.Location = new Point(253, 174);
             查询comboBox.Name = "查询comboBox";
-            查询comboBox.Size = new Size(151, 39);
+            查询comboBox.Size = new Size(165, 39);
             查询comboBox.TabIndex = 3;
             查询comboBox.Text = "所有订单";
             // 

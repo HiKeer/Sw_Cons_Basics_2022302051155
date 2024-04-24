@@ -145,14 +145,14 @@ namespace WinFormsApp
                     {
                         if (detail.Index == inDex)
                         {
-                            AddFormOrderService.ModifyDetail(existingOrder, detail, orderDetail); 
+                            AddFormOrderService.ModifyDetail(existingOrder, detail, orderDetail);
                         }
                     }
 
                     UpdateOrderService?.Invoke(AddFormOrderService);
                 }
             }
-            if(!IsOrderExist)
+            if (!IsOrderExist)
             {
                 MessageBox.Show("未找到该订单");
             }
